@@ -22,3 +22,12 @@ nano commands.txt
 git add .
 git commit -m"commands"
 git push
+
+
+### Bonus Questions ###
+git push origin main
+#On github, click pull requests, new pull requests, add title, submit pull requests
+
+### Bonus Questions 2###
+git rebase -i HEAD~2
+
